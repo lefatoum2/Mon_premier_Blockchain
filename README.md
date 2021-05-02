@@ -1,5 +1,8 @@
 # Blockchain ? 
 ![img](blockchain-mode-d-emploi.jpg)
+
+
+
 À son niveau le plus élémentaire, la blockchain n’est littéralement qu’une chaîne de blocs. Les “blocs” de la chaîne (blockchain) se constituent d’informations numériques.
 Les blocs contiennent des informations sur les transactions : Ces informations sont la date, l’heure et le montant de votre dernier achat en ligne. 
 Les blocs stockent des informations sur les personnes qui participent aux transactions.
