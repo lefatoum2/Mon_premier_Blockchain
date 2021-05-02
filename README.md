@@ -40,21 +40,21 @@ Rentrons désormais un peu plus dans le détail du fonctionnement technique de l
 ## La création de nouveaux blocs
 Lorsqu’un bloc stocke de nouvelles données, il se fait ajouter à la blockchain. La blockchain, comme son nom l’indique, se constitue de plusieurs blocs reliés entre eux. Pour qu’un bloc s’ajoute à la blockchain, quatre choses doivent cependant se produire.
 
-## 1 – UNE TRANSACTION DOIT AVOIR LIEU
+### 1 – UNE TRANSACTION DOIT AVOIR LIEU
 Cela va sans dire, c’est la première étape primordiale.
 
-## 2 – CETTE TRANSACTION DOIT SE FAIRE VÉRIFIER
+### 2 – CETTE TRANSACTION DOIT SE FAIRE VÉRIFIER
 Dans les autres registres publics d’information, comme la Securities Exchange Commission, Wikipédia ou votre bibliothèque locale, il y a une personne chargée de vérifier les nouvelles entrées de données.
 
 Dans le cas de la blockchain, cette tâche est confiée à un réseau d’ordinateurs. Notons qu’il existe deux méthodes de vérification des transactions : Proff of Work et Proof of Stake, des concepts que nous détaillerons plus loin dans ce guide.
 
 
-## 3 – CETTE TRANSACTION DOIT SE FAIRE ENREGISTRER EN BLOC
+### 3 – CETTE TRANSACTION DOIT SE FAIRE ENREGISTRER EN BLOC
 Après vérification de l’exactitude de votre transaction, elle reçoit le feu vert. Le montant de la transaction, votre signature numérique et la signature numérique du récipiendaire sont tous stockés dans un bloc.
 
 Là, la transaction rejoindra probablement des centaines, voire des milliers d’autres dans le même bloc.
 
-## 4 – CE BLOC DOIT ÊTRE HACHÉ
+### 4 – CE BLOC DOIT ÊTRE HACHÉ
 Une fois que toutes les transactions d’un bloc ont été vérifiées, il doit recevoir un code d’identification unique appelé “hash“. Le bloc reçoit également le hachage du bloc le plus récent ajouté à la blockchain. Une fois haché, le bloc peut être ajouté à la blockchain.
 
 Lorsque ce nouveau bloc est ajouté à la blockchain, il devient accessible à tous, publiquement.
