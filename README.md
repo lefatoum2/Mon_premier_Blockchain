@@ -38,9 +38,8 @@ Si la blockchain est une technologie qui vous intéresse et que vous souhaitez i
 
 
 ## La blockchain, comment ça marche ? 
-Rentrons désormais un peu plus dans le détail du fonctionnement technique de la blockchain.
 
-## La création de nouveaux blocs
+### La création de nouveaux blocs
 Lorsqu’un bloc stocke de nouvelles données, il se fait ajouter à la blockchain. La blockchain, comme son nom l’indique, se constitue de plusieurs blocs reliés entre eux. Pour qu’un bloc s’ajoute à la blockchain, quatre choses doivent cependant se produire.
 
 ### 1 – UNE TRANSACTION DOIT AVOIR LIEU
